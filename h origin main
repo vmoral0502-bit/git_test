@@ -1,0 +1,17 @@
+[33mcommit 747b3b414740e83579d814cafd0b7bc6236c3e06[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: VC Claire <280199199+vmoral0502-bit@users.noreply.github.com>
+Date:   Wed May 27 14:03:01 2026 -0500
+
+    edit READme.md and hello_world.txt
+
+[33mcommit 64ca6606030e28519453e944a0c4b7ed6b1b7081[m
+Author: VC Claire <280199199+vmoral0502-bit@users.noreply.github.com>
+Date:   Tue May 26 18:06:33 2026 -0500
+
+    add hello_world.txt
+
+[33mcommit 0ca34e61438ea498162e941c57e6325da618f4a0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: VC Claire <280199199+vmoral0502-bit@users.noreply.github.com>
+Date:   Wed May 20 13:48:34 2026 -0500
+
+    Initial commit
